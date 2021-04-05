@@ -8,7 +8,7 @@
 
 $:.push File.expand_path("lib", __dir__)
 
-require "Meli/version"
+require "meli/version"
 
 Gem::Specification.new do |s|
   s.name        = "Meli"
